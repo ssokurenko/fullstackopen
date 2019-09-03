@@ -19,7 +19,7 @@ The user creates a new note and clicking the 'Save' button:
 
 The user goes to the single page app version of the notes app:
 
-
+<img src="https://github.com/ssokurenko/fullstackopen/raw/master/assets/images/diagram-0-5.png">
 
 ## 0.6: New note
 
