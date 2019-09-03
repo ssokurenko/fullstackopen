@@ -9,7 +9,20 @@
 ## 0.3: HTML forms
 [HTML forms tutorial](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form) <img src="https://github.com/ssokurenko/fullstackopen/raw/master/assets/images/done.png" width="30" height="30">
 
-## 0.4: new note
+## 0.4: New note
 
-The user creates a new note and clicking the 'Save' button.
+The user creates a new note and clicking the 'Save' button:
+
 <img src="https://github.com/ssokurenko/fullstackopen/raw/master/assets/images/diagram-0-4.png">
+
+## 0.5: Single page app
+
+The user goes to the single page app version of the notes app:
+
+
+
+## 0.6: New note
+
+The user creates a new note using the single page version of the app:
+
+<img src="https://github.com/ssokurenko/fullstackopen/raw/master/assets/images/diagram-0-6.png">
