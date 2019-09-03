@@ -11,7 +11,7 @@
 
 ## 0.4: New note
 
-The user creates a new note and clicking the 'Save' button:
+The user creates a new note:
 
 <img src="https://github.com/ssokurenko/fullstackopen/raw/master/assets/images/diagram-0-4.png">
 
